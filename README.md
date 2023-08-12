@@ -8,7 +8,7 @@ Hi there, I'm Aritra Das, a web developer with a passion for creating beautiful 
 - 🔭 I’m currently working on Ract
 - 🌱 I’m currently learning Mern Stack
 - 👯 I’m looking to collaborate on My projects
-- 📫 How to reach me: aritragamer007@gmail.com
+- 📫 How to reach me: aritra03das@gmail.com
 
 ## 🌐 Contact Me Here :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aritra_03_das) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AritraD86296060) 
