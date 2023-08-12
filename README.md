@@ -1,3 +1,4 @@
+
 # 😎 I Am Aritra Das
 Hi there, I'm Aritra Das, a web developer with a passion for creating beautiful and professional websites. I'm always eager to learn new skills and technologies to enhance my development skills. 
 
@@ -53,5 +54,5 @@ Hi there, I'm Aritra Das, a web developer with a passion for creating beautiful 
 
 
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/AritraDas2003/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
+
+
