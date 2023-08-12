@@ -52,5 +52,6 @@ Hi there, I'm Aritra Das, a web developer with a passion for creating beautiful 
 [![](https://visitcount.itsvg.in/api?id=AritraDas2003&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
+
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/AritraDas2003/AritraDas2003/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AritraDas2003/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
