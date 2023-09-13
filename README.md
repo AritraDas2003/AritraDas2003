@@ -5,7 +5,7 @@ Hi there, I'm Aritra Das, a web developer with a passion for creating beautiful 
 <img align="right" alt="Coding" width="400" height="270" src="https://github.com/AritraDas2003/AritraDas2003/blob/main/coding.gif">
 
 
-- 🔭 I’m currently working on Ract
+- 🔭 I’m currently working on React
 - 🌱 I’m currently learning Mern Stack
 - 👯 I’m looking to collaborate on My projects
 - 📫 How to reach me: aritra03das@gmail.com
