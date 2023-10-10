@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> 
+ <br><br>
 
 # 😎 I Am Aritra Das
 Hi there, I'm Aritra Das, a web developer with a passion for creating beautiful and professional websites. I'm always eager to learn new skills and technologies to enhance my development skills. 
